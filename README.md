@@ -2,4 +2,9 @@
 Customer Churn Analysis using Power BI &amp; CSV Dataset
 ## 📊 Dashboard Preview
 
-![Customer Churn Dashboard](dashboard image)
+# Customer Churn Analysis
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
